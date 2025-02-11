@@ -12,6 +12,19 @@
 # Table of Contents
 [Introduction](/SENG438_A01-Group22.md#introduction)
 
+[High-level description of the exploratory testing plan](/SENG438_A01-Group22.md#high-level-description-of-the-exploratory-testing-plan)
+
+[Comparison of exploratory and manual functional testing](/SENG438_A01-Group22.md#comparison-of-exploratory-and-manual-functional-testing)
+
+[Notes and discussion of the peer reviews of defect reports](/SENG438_A01-Group22.md#notes-and-discussion-of-the-peer-reviews-of-defect-reports)
+
+[How the pair testing was managed and team work/effort was divided](/SENG438_A01-Group22.md#how-the-pair-testing-was-managed-and-team-workeffort-was-divided)
+
+[Difficulties encountered, challenges overcome, and lessons learned](/SENG438_A01-Group22.md#difficulties-encountered-challenges-overcome-and-lessons-learned)
+
+[Comments/feedback on the lab and lab document itself](/SENG438_A01-Group22.md#commentsfeedback-on-the-lab-and-lab-document-itself)
+
+
 # Introduction
 In this lab, we were tasked with testing an ATM application using both manual functional testing (MFT) and exploratory testing principles. The application has two versions: the initial release and an updated release incorporating changes based on identified defects. This setup allows us to perform regression testing.
 
