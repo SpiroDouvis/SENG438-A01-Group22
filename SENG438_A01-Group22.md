@@ -10,7 +10,7 @@
 |Issy|
 
 # Table of Contents
-[Introduction](/main/SENG438_A01-Group22.md#introduction)
+[Introduction](/SENG438_A01-Group22.md#introduction)
 
 # Introduction
 In this lab, we were tasked with testing an ATM application using both manual functional testing (MFT) and exploratory testing principles. The application has two versions: the initial release and an updated release incorporating changes based on identified defects. This setup allows us to perform regression testing.
