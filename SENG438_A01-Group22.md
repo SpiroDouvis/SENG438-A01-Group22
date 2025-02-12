@@ -93,10 +93,11 @@ Following the guidelines of pair testing, the two pairs formed were:
 - Dylan & Issy
   
 **Dylan & Issy:**
-This pair adopted a "divide and conquer" strategy by splitting testing responsibilities based on different functionalities. Kamand focused on deposits and withdrawals, while Spiro tested balance inquiries and system logs. Each member documented the defects they found in the backlog and later cross-checked for duplicates.
+In this pair, responsibilities were alternated between testing and note-taking. Dylan focused on login and deposit-related tasks, while Issy tested withdrawal and transfer functions. This approach ensured an even distribution of work. While one person conducted the test, the other documented the steps taken, expected results, and actual outcomes. Pair testing also allowed for real-time feedback during and after testing, ensuring that different perspectives and potential improvements were considered. For the manual functional tests, test cases were evenly distributed among all team members, with each person responsible for executing ten tests. For regression testing, each member retested their assigned MFT and exploratory test cases from previous phases.
 
 **Kamand & Spiro:**
-In this pair, responsibilities were alternated between testing and note-taking. Dylan focused on login and deposit-related tasks, while Issy tested withdrawal and transfer functions. This approach ensured an even distribution of work. While one person conducted the test, the other documented the steps taken, expected results, and actual outcomes. Pair testing also allowed for real-time feedback during and after testing, ensuring that different perspectives and potential improvements were considered. For the manual functional tests, test cases were evenly distributed among all team members, with each person responsible for executing ten tests. For regression testing, each member retested their assigned MFT and exploratory test cases from previous phases.
+This pair adopted a "divide and conquer" strategy by splitting testing responsibilities based on different functionalities. Kamand focused on deposits and withdrawals, while Spiro tested balance inquiries and system logs. Each member documented the defects they found in the backlog and later cross-checked for duplicates.
+
 
 # Difficulties encountered, challenges overcome, and lessons learned
 Teamwork played a crucial role in our success, as tasks were distributed efficiently among team members. Effective communication was a key factor that helped us navigate different testing phases. After completing each test, we realized the importance of thoroughly documenting any additional issues to prevent redundant efforts.
